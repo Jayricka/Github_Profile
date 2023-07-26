@@ -1,9 +1,3 @@
----
-output:
-  html_document:
-    css: styles.css
----
-
 <style>
 /* Custom CSS */
 .header {
