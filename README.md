@@ -38,6 +38,12 @@ output:
   text-align: center;
 }
 
+/* Add spacing between headings */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
 </style>
 
 <div class="header">
@@ -74,9 +80,7 @@ Hello there! 👋 I'm a passionate developer interested in various technologies 
 ✅ Data Analysis Techniques<br>
 ✅ Software Testing
 
-</div>
-
-### **🌐🛠 Tools & Technology**
+## 🌐🛠 Tools & Technology
 
 <!-- Table alignment -->
 <div class="center-align">
@@ -92,14 +96,14 @@ Hello there! 👋 I'm a passionate developer interested in various technologies 
 
 </div>
 
-### **Featured Projects**
+## Featured Projects
 
 <div class="center-align">
 
 Here are some of my featured projects:
 
-[Weather App](https://github.com/johndoe/weather-app): A web application to display weather forecasts for different cities.
-[Data Analysis with Python](https://github.com/johndoe/data-analysis): Jupyter Notebooks showcasing various data analysis techniques using Python libraries.
+- [Weather App](https://github.com/johndoe/weather-app): A web application to display weather forecasts for different cities.
+- [Data Analysis with Python](https://github.com/johndoe/data-analysis): Jupyter Notebooks showcasing various data analysis techniques using Python libraries.
 
 </div>
 
@@ -121,4 +125,5 @@ You can find me on various platforms:
   Credits: This README template is inspired by many awesome profiles on GitHub.
   Special thanks to the GitHub community for creating such wonderful resources.
   Feel free to customize it as per your requirements.
---> 
+-->
+
