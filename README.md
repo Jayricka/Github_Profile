@@ -47,23 +47,25 @@ h1, h2, h3, h4, h5, h6 {
 
 <div class="sidebar">
   <h2>Fun Fact</h2>
-  ** ⚡ ** "Data Power Unlocked! Turns boring numbers into Compelling stories with dynamic visualizations. Empower your business with valuable analytics, uncover hidden goldmines, and conquer with data-driven decisions. 🚀💼📊🏆"! 
+  ⚡ "Data Power Unlocked! Turns boring numbers into Compelling stories with dynamic visualizations. Empower your business with valuable analytics, uncover hidden goldmines, and conquer with data-driven decisions. 🚀💼📊🏆"! 
 </div>
 
 ## About Me
 
 <div class="left-align">
-Hello there! 👋 I'm a passionate developer interested in various technologies and programming languages. Welcome to my GitHub profile!
+Hello there! 👋 I'm a passionate developer interested in various technologies and programming languages. Welcome to my GitHub profile!:
 <p>
- - 🔭 I’m working on ** Projects with R and Tableau **
- - 🌱 I’m also learning ** Python Programming **
- - 💬 You can ask me about ** data analytics and web development **
- - 📫 How to reach me ** jayricka17@gmail.com **
+- 🔭 I’m working on ** Projects with R and Tableau **
+- 🌱 I’m also learning ** Python Programming **
+- 💬 You can ask me about ** data analytics and web development **
+- 📫 How to reach me ** jayricka17@gmail.com **
 <p/>
 
 </div>
 
-## 👔 **Soft skills**
+## 👔 Soft skills
+
+soft skills:
 
  ✅ Cross-platform development skills<br>
  ✅ Creativity<br>
@@ -120,4 +122,5 @@ You can find me on various platforms:
   Special thanks to the GitHub community for creating such wonderful resources.
   Feel free to customize it as per your requirements.
 -->
+
 
