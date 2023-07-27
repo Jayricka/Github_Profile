@@ -42,12 +42,12 @@ h1, h2, h3, h4, h5, h6 {
 
 <div class="header">
   <h1 align="center">John Rika Gachanja GitHub Profile</h1>
-  <p align="center"><em>Software_Engineer|Certified-Data-Analyst</em></p>
+  ** <p align="center"><em>Software_Engineer|Certified-Data-Analyst</em></p> **
 </div>
 
 <div class="sidebar">
   <h2>Fun Fact</h2>
-  **⚡**"Data Power Unlocked! Turns boring numbers into Compelling stories with dynamic visualizations. Empower your business with valuable analytics, uncover hidden goldmines, and conquer with data-driven decisions. 🚀💼📊🏆"! 🏔️
+  ** ⚡ ** "Data Power Unlocked! Turns boring numbers into Compelling stories with dynamic visualizations. Empower your business with valuable analytics, uncover hidden goldmines, and conquer with data-driven decisions. 🚀💼📊🏆"! 
 </div>
 
 ## About Me
@@ -55,24 +55,24 @@ h1, h2, h3, h4, h5, h6 {
 <div class="left-align">
 Hello there! 👋 I'm a passionate developer interested in various technologies and programming languages. Welcome to my GitHub profile!
 <p>
-- 🔭 I’m working on **Projects with R and Tableau**
-- 🌱 I’m also learning **Python Programming**
-- 💬 You can ask me about **data analytics and web development**
-- 📫 How to reach me **jayricka17@gmail.com**
+ - 🔭 I’m working on ** Projects with R and Tableau **
+ - 🌱 I’m also learning ** Python Programming **
+ - 💬 You can ask me about ** data analytics and web development **
+ - 📫 How to reach me ** jayricka17@gmail.com **
 <p/>
 
 </div>
 
 ## 👔 **Soft skills**
 
-✅ Cross-platform development skills<br>
-✅ Creativity<br>
-✅ Good communication skills<br>
-✅ Data Visualization<br>
-✅ Problem Solving<br>
-✅ Agile Development<br>
-✅ Data Analysis Techniques<br>
-✅ Software Testing
+ ✅ Cross-platform development skills<br>
+ ✅ Creativity<br>
+ ✅ Good communication skills<br>
+ ✅ Data Visualization<br>
+ ✅ Problem Solving<br>
+ ✅ Agile Development<br>
+ ✅ Data Analysis Techniques<br>
+ ✅ Software Testing
 
 ## 🌐🛠 Tools & Technology
 
